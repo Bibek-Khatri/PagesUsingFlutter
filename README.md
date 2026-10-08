@@ -1,6 +1,6 @@
 # app
 
-A new Flutter project.
+Login page and register page using Flutter
 
 ## Getting Started
 
